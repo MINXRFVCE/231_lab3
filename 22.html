@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Лабораторная работа №3"</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            width: 300px;
+            height: 200px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 120px;
+            text-align: center;
+            animation: blink 1s infinite;
+        }
+        @keyframes blink {
+            0% {color: black;}
+            50% {color: red;}
+            100% {color: black;}
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Пример анимации мигания</h1>
+        <p>Этот блок div имеет анимацию, которая мигает красным цветом.</p>
+    </div>
+</body>
+</html>
