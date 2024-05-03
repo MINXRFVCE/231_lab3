@@ -444,24 +444,17 @@
 ```
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width, initial-scale=1.0">
-        <title>"Лабораторная работа №3"</title>
-        <style>
-            p {
-                font-family: Arial, sans-serif;
-            }
-        </style>
-    </head>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Лабораторная работа №3"</title>
+    <style>
 
-    <body style="background-color:blueviolet;">
-        <p>Международное сообщество выражает глубокую озабоченность из-за последних событий в регионе. Несмотря на множество усилий и дипломатических переговоров, ситуация остается напряженной.</p>
-
-        <p>Недавние обострения только подчеркивают необходимость мирного урегулирования конфликта. Диалог и сотрудничество между сторонами должны стать приоритетом для предотвращения дальнейшей эскалации.</p>
-
-        <p>Важно, чтобы все заинтересованные стороны воздерживались от действий, которые могут ухудшить ситуацию. Только через совместные усилия и конструктивный диалог можно найти устойчивое решение, способствующее миру и стабильности в регионе.</p>
-    </body>
+    </style>
+  </head>
+  <body>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MBe1h80ghKA?si=z0hWFd_PoQVwLZOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </body>
 </html>
 ```
 
